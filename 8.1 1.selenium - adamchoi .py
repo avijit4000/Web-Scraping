@@ -5,7 +5,7 @@ import time
 
 # define the website to scrape and path where the chromediver is located
 website = 'https://www.adamchoi.co.uk/overs/detailed'
-# path = '/Users/frank/Downloads/chromedriver' # write your path here
+# path = '/Users/Downloads/chromedriver' # write your path here
 # define 'driver' variable
 driver = webdriver.EdgeOptions()
 # open Google Chrome with chromedriver
